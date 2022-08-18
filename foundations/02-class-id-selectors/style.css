@@ -1,0 +1,20 @@
+.odd {
+    background-color: #EE9090; /* #FFB6C1 - lightpink */
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+.font-montserrat {
+    font-family: "Montserrat";
+}
+.font-bold-cool {
+    font-size: 24px;
+}
+
+#second {
+    color: #0000FF;
+    font-size: 36px;
+}
+#fourth {
+    background-color: #90EE90; /* lighgreen */
+    font-size: 24px;
+    font-weight: bold;
+}
